@@ -15,9 +15,9 @@ const Portfolio = () => {
                     </div>
                     <h3> Organic Fruits Warehouse</h3>
                     <div className='portfolio__item-cta'>
-                        <a href="https://github.com/akramHoque/manufacturer-website-client-side" className='btn'>Client Side</a>
-                        <a href="https://github.com/akramHoque/manufacturer-website-server" className='btn'>Server Side</a>
-                        <a href="https://assignment-12-53a87.web.app/" className='btn'>Live Site</a>
+                        <a href="https://github.com/akramHoque/warehouse-management-website" className='btn'>Client Site</a>
+                        <a href="https://github.com/akramHoque/warehouse-management-website-server" className='btn'>Server Site</a>
+                        <a href="https://assignment-11-20be0.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
                 </article>
                 <article className='portfolio__item'>
@@ -26,8 +26,8 @@ const Portfolio = () => {
                     </div>
                     <h3>  Gym Trainer Website(Independent Service Provider)</h3>
                     <div className='portfolio__item-cta'>
-                        <a href="https://github.com/akramHoque/manufacturer-website-client-side" className='btn'>Client Side</a>
-                        <a href="https://github.com/akramHoque/manufacturer-website-server" className='btn'>Server Side</a>
+                        <a href="https://github.com/akramHoque/independent-service-provider" className='btn'>Client Site</a>
+                        <a href="https://assignment-10-gym-trainer.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
                 </article>
                 <article className='portfolio__item'>
@@ -36,9 +36,9 @@ const Portfolio = () => {
                     </div>
                     <h3> Zenith Manufacturing Company</h3>
                     <div className='portfolio__item-cta'>
-                        <a href="https://github.com/akramHoque/manufacturer-website-client-side" className='btn'>Client Side</a>
-                        <a href="https://github.com/akramHoque/manufacturer-website-server" className='btn'>Server Side</a>
-                        <a href="https://assignment-12-53a87.web.app/" className='btn'>Live Site</a>
+                        <a href="https://github.com/akramHoque/manufacturer-website-client-side" className='btn'>Client Site</a>
+                        <a href="https://github.com/akramHoque/manufacturer-website-server" className='btn'>Server Site</a>
+                        <a href="https://assignment-12-53a87.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
 
                 </article>
