@@ -15,31 +15,31 @@ const Services = () => {
                 <ul className='service__list'>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Basic Part of Web Design</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>The major Of an Web Browser HTML</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>The HTML5 For Website and UI Design</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Casscading Style Sheet(CSS)</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Desgin With CSS5.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Responsive Design With Bootstrap</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Responsive Design With Tailwind CSS.</p>
                     </li>
                 </ul>
             </article>
@@ -50,31 +50,31 @@ const Services = () => {
                 <ul className='service__list'>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Core Javascript For Web Development.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>React Js For Website Development.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>React Roueter For SPA.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>React Firebase Hooks.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>Firebase Authentication.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>React Form With Validation.</p>
                     </li>
                     <li>
                     <BsCheck className='service__list-icon'></BsCheck>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <p>React Bootstrap For Responsive Design</p>
                     </li>
                 </ul>
             </article>
