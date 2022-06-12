@@ -5,9 +5,9 @@ import About from './Components/About/About';
 import Experience from './Components/Experience';
 import Services from './Components/Services/Services';
 import Portfolio from './Components/Portfolio/Portfolio';
-import Testimonials from './Components/Testimonials/Testimonials';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
+import Blogs from './Components/Blogs/Blogs';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <Experience></Experience>
       <Services></Services>
       <Portfolio></Portfolio>
-      <Testimonials></Testimonials>
+      <Blogs></Blogs>
       <Contact></Contact>
       <Footer></Footer>
       

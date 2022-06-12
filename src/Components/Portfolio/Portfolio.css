@@ -27,7 +27,9 @@
     margin-bottom: 1rem;
     gap: 1rem;
 }
-
+.view{
+    text-align: center;
+}
 /* media queries (medium device)*/
 @media screen and (max-width:1024px) {
    .portfolio__container{

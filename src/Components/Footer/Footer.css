@@ -47,4 +47,17 @@ footer a{
 .footer__copyright{
     margin-bottom: 4rem;
     color: var(--color-bg);
-}
+}   
+
+
+  /* media queries (small device)*/
+  @media screen and (max-width:600px) {
+
+    .links{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    .footer__socials{
+        margin-bottom: 2.6rem;
+    }
+  }

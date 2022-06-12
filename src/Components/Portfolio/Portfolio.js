@@ -14,11 +14,13 @@ const Portfolio = () => {
                         <img src={img3} alt="" />
                     </div>
                     <h3> Organic Fruits Warehouse</h3>
+                   
                     <div className='portfolio__item-cta'>
                         <a href="https://github.com/akramHoque/warehouse-management-website" className='btn'>Client Site</a>
                         <a href="https://github.com/akramHoque/warehouse-management-website-server" className='btn'>Server Site</a>
                         <a href="https://assignment-11-20be0.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
+                    <span><a href="" className='btn' className='view'>View More</a></span>
                 </article>
                 <article className='portfolio__item'>
                     <div className="portfolio__image-item">
@@ -29,6 +31,7 @@ const Portfolio = () => {
                         <a href="https://github.com/akramHoque/independent-service-provider" className='btn'>Client Site</a>
                         <a href="https://assignment-10-gym-trainer.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
+                    <span><a href="" className='btn' className='view'>View More</a></span>
                 </article>
                 <article className='portfolio__item'>
                     <div className="portfolio__image-item">
@@ -40,7 +43,7 @@ const Portfolio = () => {
                         <a href="https://github.com/akramHoque/manufacturer-website-server" className='btn'>Server Site</a>
                         <a href="https://assignment-12-53a87.web.app/" className='btn btn-primary'>Live Site</a>
                     </div>
-
+                    <span><a href="" className='btn' className='view'>View More</a></span>
                 </article>
             </div>
         </section>

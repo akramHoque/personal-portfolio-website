@@ -36,7 +36,7 @@ const About = () => {
                             <small>20+ Completed</small>
                         </article>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ea nam qui, voluptates placeat consectetur officiis dolore. Reprehenderit, nulla fugiat quasi, magnam repellendus sequi quam mollitia culpa debitis placeat sint.</p>
+                    <p>This is Md. Akramul Hoque and I have been working on web design and web development last one year and I have appreciated all the great experiences while working in this sector. Currently learning more new programing technology and I have fallen in love with programing technology. I have been working for a long time with great success on how to handle projects with clients, leadership skills, communication skills etc.  </p>
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
                 </div>
             </div>
